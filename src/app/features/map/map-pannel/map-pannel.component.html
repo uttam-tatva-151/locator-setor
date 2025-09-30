@@ -1,0 +1,12 @@
+<div class="left-panel">
+  <input [(ngModel)]="searchTerm" placeholder="Search place" />
+  <button (click)="searchCity()">Search</button>
+  <button (click)="addMarker()" [disabled]="!tempMarker">Add Marker</button>
+
+  <h4>Markers</h4>
+  <ul>
+    <li *ngFor="let m of markers">{{ m.label }} - {{ m.name }}</li>
+  </ul>
+
+  <button (click)="swapMarkers()" *ngIf="markers.length >= 2">Swap First Two</button>
+</div>
