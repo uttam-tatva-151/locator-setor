@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Ahmedabad",
+    "latitude": 23.033168730111356,
+    "longitude": 72.57450163856332,
+    "info": "Ahmedabad is a city in India"
+  },
+  {
+    "name": "New Delhi",
+    "latitude": 28.57477106431982,
+    "longitude": 77.20955528471475,
+    "info": "New Delhi is a city in India"
+  },
+  {
+    "name": "Mumbai",
+    "latitude": 19.106828433287692,
+    "longitude": 72.83562218195455,
+    "info": "Mumbai is a city in India"
+  },
+  {
+    "name": "Bangalore",
+    "latitude": 12.928848303558851,
+    "longitude": 77.61627822439733,
+    "info": "Bangalore is a city in India"
+  },
+  {
+    "name": "Vellore",
+    "latitude": 12.929626587423641,
+    "longitude": 79.14337431779852,
+    "info": "Vellore is a city in India"
+  },
+  {
+    "name": "Chennai",
+    "latitude": 12.998531841395895,
+    "longitude": 80.23115240642736,
+    "info": "Chennai is a city in India"
+  },
+  {
+    "name": "Kanpur",
+    "latitude": 26.50770746871249,
+    "longitude": 80.23494927278537,
+    "info": "Kanpur is a city in India"
+  },
+  {
+    "name": "Kharagpur",
+    "latitude": 22.30994320956746,
+    "longitude": 87.30467345328188,
+    "info": "Kharagpur is a city in India"
+  },
+  {
+    "name": "Kolkata",
+    "latitude": 22.577441343641926,
+    "longitude": 88.37063072818627,
+    "info": "Kolkata is a city in India"
+  },
+  {
+    "name": "Goa",
+    "latitude": 15.53620906861556,
+    "longitude": 73.7605196339862,
+    "info": "Goa is a city in India"
+  },
+  {
+    "name": "Kerala",
+    "latitude": 8.406509274073334,
+    "longitude": 76.97130875762237,
+    "info": "Kerala is a city in India"
+  },
+  {
+    "name": "Madurai",
+    "latitude": 9.920130948965118,
+    "longitude": 78.1114302643943,
+    "info": "Madurai is a city in India"
+  },
+  {
+    "name": "Amritsar",
+    "latitude": 31.62681306727477,
+    "longitude": 74.8780849888965,
+    "info": "Amritsar is a city in India"
+  },
+  {
+    "name": "Gujarat",
+    "latitude": 20.88475769620355,
+    "longitude": 70.4112155679656,
+    "info": "Gujarat is a city in India"
+  },
+  {
+    "name": "Delhi",
+    "latitude": 28.56420618768749,
+    "longitude": 77.25256552731061,
+    "info": "Delhi is a city in India"
+  },
+  {
+    "name": "Puri",
+    "latitude": 19.804682479125766,
+    "longitude": 85.80946212068085,
+    "info": "Puri is a city in India"
+  }
+]

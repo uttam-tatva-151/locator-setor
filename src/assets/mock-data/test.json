@@ -1,0 +1,3922 @@
+[
+  {
+    "id": "111",
+    "name": "Meenakshi Temple",
+    "latitude": 9.917123428710674,
+    "longitude": 78.12738247609994,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "112",
+    "name": "Golden Temple",
+    "latitude": 31.613659956288426,
+    "longitude": 74.87263443988535,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "113",
+    "name": "Somnath Temple",
+    "latitude": 20.887546926119192,
+    "longitude": 70.40141878509873,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "114",
+    "name": "ISKCON Temple",
+    "latitude": 28.558840912476242,
+    "longitude": 77.25124992545415,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "115",
+    "name": "Jagannath Temple",
+    "latitude": 19.812260596363604,
+    "longitude": 85.82609126418794,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "116",
+    "name": "Wankhede Stadium",
+    "latitude": 18.93854096597768,
+    "longitude": 72.82837674902187,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "117",
+    "name": "Eden Gardens",
+    "latitude": 22.56418778120861,
+    "longitude": 88.34093481778343,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "118",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.969644695286624,
+    "longitude": 77.59292663732595,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "119",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.64365270690622,
+    "longitude": 77.23591937549044,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "120",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.59016948599059,
+    "longitude": 77.24182719626934,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "121",
+    "name": "Apollo Hospital",
+    "latitude": 23.029775241469284,
+    "longitude": 72.58199524417536,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "122",
+    "name": "AIIMS Delhi",
+    "latitude": 28.557848743012386,
+    "longitude": 77.20246650228533,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "123",
+    "name": "Fortis Hospital",
+    "latitude": 19.098725941751635,
+    "longitude": 72.84577753738361,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "124",
+    "name": "Manipal Hospital",
+    "latitude": 12.937848602899853,
+    "longitude": 77.62200134951374,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "125",
+    "name": "CMC Vellore",
+    "latitude": 12.92551254848426,
+    "longitude": 79.13732273276693,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "126",
+    "name": "IIT Bombay",
+    "latitude": 19.137526250859505,
+    "longitude": 72.91945132792587,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "127",
+    "name": "IIT Delhi",
+    "latitude": 28.548350372751745,
+    "longitude": 77.18468005262334,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "128",
+    "name": "IIT Madras",
+    "latitude": 12.985010385438391,
+    "longitude": 80.22832237292258,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "129",
+    "name": "IIT Kanpur",
+    "latitude": 26.513282078956756,
+    "longitude": 80.2406645131038,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "130",
+    "name": "IIT Kharagpur",
+    "latitude": 22.308516380322107,
+    "longitude": 87.3045557281084,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "131",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.564728867660477,
+    "longitude": 88.37072691705077,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "132",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.06882472304039,
+    "longitude": 72.8685169993524,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "133",
+    "name": "Chess Club Delhi",
+    "latitude": 28.609973052419342,
+    "longitude": 77.20795744506897,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "134",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.978613947068096,
+    "longitude": 77.60380331751884,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "135",
+    "name": "Chess Club Chennai",
+    "latitude": 13.089362720126603,
+    "longitude": 80.28003964718515,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "136",
+    "name": "Juhu Beach",
+    "latitude": 19.101243620055218,
+    "longitude": 72.82005641890811,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "137",
+    "name": "Marina Beach",
+    "latitude": 13.051672391815142,
+    "longitude": 80.28847490179686,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "138",
+    "name": "Calangute Beach",
+    "latitude": 15.544797346292942,
+    "longitude": 73.74791240681219,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "139",
+    "name": "Baga Beach",
+    "latitude": 15.55603156618477,
+    "longitude": 73.7524669682604,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "140",
+    "name": "Kovalam Beach",
+    "latitude": 8.396099563982489,
+    "longitude": 76.98831550515547,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "141",
+    "name": "Meenakshi Temple",
+    "latitude": 9.92529344035287,
+    "longitude": 78.11225344228687,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "142",
+    "name": "Golden Temple",
+    "latitude": 31.62344032504466,
+    "longitude": 74.87023875167546,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "143",
+    "name": "Somnath Temple",
+    "latitude": 20.88240549068854,
+    "longitude": 70.39804136014082,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "144",
+    "name": "ISKCON Temple",
+    "latitude": 28.56493156253412,
+    "longitude": 77.25094835716096,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "145",
+    "name": "Jagannath Temple",
+    "latitude": 19.811896653142767,
+    "longitude": 85.82016760260889,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "146",
+    "name": "Wankhede Stadium",
+    "latitude": 18.94727842325412,
+    "longitude": 72.8281476748125,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "147",
+    "name": "Eden Gardens",
+    "latitude": 22.55672687450881,
+    "longitude": 88.3517192442788,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "148",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.977081450143148,
+    "longitude": 77.59932648767473,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "149",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.631134056748518,
+    "longitude": 77.23824193841656,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "150",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.572801927652407,
+    "longitude": 77.24529276045486,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "151",
+    "name": "Apollo Hospital",
+    "latitude": 23.029653934546563,
+    "longitude": 72.58986253812043,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "152",
+    "name": "AIIMS Delhi",
+    "latitude": 28.565366360910573,
+    "longitude": 77.2028595960076,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "153",
+    "name": "Fortis Hospital",
+    "latitude": 19.115142064872646,
+    "longitude": 72.83646663881052,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "154",
+    "name": "Manipal Hospital",
+    "latitude": 12.925508466626944,
+    "longitude": 77.61847793608207,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "155",
+    "name": "CMC Vellore",
+    "latitude": 12.926797995310883,
+    "longitude": 79.14284548477097,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "156",
+    "name": "IIT Bombay",
+    "latitude": 19.12441725971474,
+    "longitude": 72.92108863144499,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "157",
+    "name": "IIT Delhi",
+    "latitude": 28.545072426843404,
+    "longitude": 77.19309422899283,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "158",
+    "name": "IIT Madras",
+    "latitude": 12.999679789068146,
+    "longitude": 80.22438788238428,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "159",
+    "name": "IIT Kanpur",
+    "latitude": 26.509033694608856,
+    "longitude": 80.228872648606,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "160",
+    "name": "IIT Kharagpur",
+    "latitude": 22.317785422699657,
+    "longitude": 87.3066593154967,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "161",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.58102292317291,
+    "longitude": 88.36269402261678,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "162",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.070184207293433,
+    "longitude": 72.88151244630535,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "163",
+    "name": "Chess Club Delhi",
+    "latitude": 28.62097791023814,
+    "longitude": 77.21584765880932,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "164",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.977789631126619,
+    "longitude": 77.58790211849923,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "165",
+    "name": "Chess Club Chennai",
+    "latitude": 13.076028353285897,
+    "longitude": 80.27823991300467,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "166",
+    "name": "Juhu Beach",
+    "latitude": 19.09935786158716,
+    "longitude": 72.81961300392338,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "167",
+    "name": "Marina Beach",
+    "latitude": 13.059008840406657,
+    "longitude": 80.28199012524527,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "168",
+    "name": "Calangute Beach",
+    "latitude": 15.55302301440973,
+    "longitude": 73.76350000143825,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "169",
+    "name": "Baga Beach",
+    "latitude": 15.547041883424841,
+    "longitude": 73.75961522900464,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "170",
+    "name": "Kovalam Beach",
+    "latitude": 8.402949501609225,
+    "longitude": 76.98242435740424,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "171",
+    "name": "Meenakshi Temple",
+    "latitude": 9.922284306588926,
+    "longitude": 78.11750288021761,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "172",
+    "name": "Golden Temple",
+    "latitude": 31.623745938525428,
+    "longitude": 74.87657937756488,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "173",
+    "name": "Somnath Temple",
+    "latitude": 20.883248145974846,
+    "longitude": 70.40658175495915,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "174",
+    "name": "ISKCON Temple",
+    "latitude": 28.560351430266664,
+    "longitude": 77.244522965846,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "175",
+    "name": "Jagannath Temple",
+    "latitude": 19.810128323039734,
+    "longitude": 85.81874513077462,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "176",
+    "name": "Wankhede Stadium",
+    "latitude": 18.936471358398972,
+    "longitude": 72.83350002946875,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "177",
+    "name": "Eden Gardens",
+    "latitude": 22.569511351450007,
+    "longitude": 88.33710111098127,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "178",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.988358366407253,
+    "longitude": 77.58963359267712,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "179",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.635182501759296,
+    "longitude": 77.24058714802645,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "180",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.587426087121575,
+    "longitude": 77.24853897114713,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "181",
+    "name": "Apollo Hospital",
+    "latitude": 23.039504532533428,
+    "longitude": 72.57097567473431,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "182",
+    "name": "AIIMS Delhi",
+    "latitude": 28.565967101161696,
+    "longitude": 77.21057791687223,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "183",
+    "name": "Fortis Hospital",
+    "latitude": 19.099040928693515,
+    "longitude": 72.84043066224514,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "184",
+    "name": "Manipal Hospital",
+    "latitude": 12.925953922397444,
+    "longitude": 77.62912351705282,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "185",
+    "name": "CMC Vellore",
+    "latitude": 12.925638680244356,
+    "longitude": 79.13171569465324,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "186",
+    "name": "IIT Bombay",
+    "latitude": 19.136402662768635,
+    "longitude": 72.92211685960636,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "187",
+    "name": "IIT Delhi",
+    "latitude": 28.53851038541973,
+    "longitude": 77.19768596157988,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "188",
+    "name": "IIT Madras",
+    "latitude": 12.998906774224448,
+    "longitude": 80.23675537916907,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "189",
+    "name": "IIT Kanpur",
+    "latitude": 26.51496576421221,
+    "longitude": 80.24280937839308,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "190",
+    "name": "IIT Kharagpur",
+    "latitude": 22.31135440119327,
+    "longitude": 87.30370734818277,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "191",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.567273376530895,
+    "longitude": 88.3604584354662,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "192",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.068312900394027,
+    "longitude": 72.87318887764062,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "193",
+    "name": "Chess Club Delhi",
+    "latitude": 28.615167635041416,
+    "longitude": 77.21542626536156,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "194",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.964604926113472,
+    "longitude": 77.58801911707887,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "195",
+    "name": "Chess Club Chennai",
+    "latitude": 13.089190248654411,
+    "longitude": 80.2626933008324,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "196",
+    "name": "Juhu Beach",
+    "latitude": 19.103684581063316,
+    "longitude": 72.82033133534549,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "197",
+    "name": "Marina Beach",
+    "latitude": 13.052516131270655,
+    "longitude": 80.28847788016239,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "198",
+    "name": "Calangute Beach",
+    "latitude": 15.551179956667779,
+    "longitude": 73.74603752339748,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "199",
+    "name": "Baga Beach",
+    "latitude": 15.54411497870015,
+    "longitude": 73.76021519763313,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "200",
+    "name": "Kovalam Beach",
+    "latitude": 8.396906480354588,
+    "longitude": 76.97305003192133,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "201",
+    "name": "Meenakshi Temple",
+    "latitude": 9.911000437088655,
+    "longitude": 78.12718738821731,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "202",
+    "name": "Golden Temple",
+    "latitude": 31.61077697086461,
+    "longitude": 74.88070682823304,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "203",
+    "name": "Somnath Temple",
+    "latitude": 20.893816949427542,
+    "longitude": 70.39673384963815,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "204",
+    "name": "ISKCON Temple",
+    "latitude": 28.57168579530169,
+    "longitude": 77.24978905608894,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "205",
+    "name": "Jagannath Temple",
+    "latitude": 19.80401278609008,
+    "longitude": 85.82009740863757,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "206",
+    "name": "Wankhede Stadium",
+    "latitude": 18.938050593586684,
+    "longitude": 72.82316805406505,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "207",
+    "name": "Eden Gardens",
+    "latitude": 22.558452776134576,
+    "longitude": 88.33431974645899,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "208",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.981402754866908,
+    "longitude": 77.60157842920839,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "209",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.639228004836298,
+    "longitude": 77.23954333347,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "210",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.582529886098982,
+    "longitude": 77.23859766616212,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "211",
+    "name": "Apollo Hospital",
+    "latitude": 23.023207162494952,
+    "longitude": 72.57538707262592,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "212",
+    "name": "AIIMS Delhi",
+    "latitude": 28.558312303052237,
+    "longitude": 77.20403480282977,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "213",
+    "name": "Fortis Hospital",
+    "latitude": 19.10946482056287,
+    "longitude": 72.84004189711105,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "214",
+    "name": "Manipal Hospital",
+    "latitude": 12.93926307780546,
+    "longitude": 77.62058463234798,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "215",
+    "name": "CMC Vellore",
+    "latitude": 12.930420444055315,
+    "longitude": 79.14264455416945,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "216",
+    "name": "IIT Bombay",
+    "latitude": 19.126566938894094,
+    "longitude": 72.92251497380883,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "217",
+    "name": "IIT Delhi",
+    "latitude": 28.539923648380512,
+    "longitude": 77.19070389107011,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "218",
+    "name": "IIT Madras",
+    "latitude": 12.992453755095074,
+    "longitude": 80.23033329093785,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "219",
+    "name": "IIT Kanpur",
+    "latitude": 26.510814072681075,
+    "longitude": 80.24082573675479,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "220",
+    "name": "IIT Kharagpur",
+    "latitude": 22.314446290184488,
+    "longitude": 87.30157023462843,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "221",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.563182756432866,
+    "longitude": 88.35847076016259,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "222",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.07982882962814,
+    "longitude": 72.88217184655663,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "223",
+    "name": "Chess Club Delhi",
+    "latitude": 28.611773564254385,
+    "longitude": 77.20698561252476,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "224",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.973843778704708,
+    "longitude": 77.59109221841625,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "225",
+    "name": "Chess Club Chennai",
+    "latitude": 13.073097907384621,
+    "longitude": 80.26553805713725,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "226",
+    "name": "Juhu Beach",
+    "latitude": 19.094936664683537,
+    "longitude": 72.82100722377265,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "227",
+    "name": "Marina Beach",
+    "latitude": 13.05122339764299,
+    "longitude": 80.29138264250224,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "228",
+    "name": "Calangute Beach",
+    "latitude": 15.537395552118205,
+    "longitude": 73.75304224343184,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "229",
+    "name": "Baga Beach",
+    "latitude": 15.54679493385043,
+    "longitude": 73.74500047649137,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "230",
+    "name": "Kovalam Beach",
+    "latitude": 8.3941156095739,
+    "longitude": 76.9840273346216,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "231",
+    "name": "Meenakshi Temple",
+    "latitude": 9.924332913061454,
+    "longitude": 78.11303835611896,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "232",
+    "name": "Golden Temple",
+    "latitude": 31.620272435049316,
+    "longitude": 74.8847097803628,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "233",
+    "name": "Somnath Temple",
+    "latitude": 20.897096854911123,
+    "longitude": 70.41022925917872,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "234",
+    "name": "ISKCON Temple",
+    "latitude": 28.56201948317157,
+    "longitude": 77.24846611368802,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "235",
+    "name": "Jagannath Temple",
+    "latitude": 19.800068798183315,
+    "longitude": 85.82443871458763,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "236",
+    "name": "Wankhede Stadium",
+    "latitude": 18.939142454544868,
+    "longitude": 72.81743683934369,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "237",
+    "name": "Eden Gardens",
+    "latitude": 22.565520080693293,
+    "longitude": 88.34175379337063,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "238",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.982948026870197,
+    "longitude": 77.5995645565463,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "239",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.63006477754627,
+    "longitude": 77.2337748772012,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "240",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.58180863451599,
+    "longitude": 77.24572062191322,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "241",
+    "name": "Apollo Hospital",
+    "latitude": 23.028214762618934,
+    "longitude": 72.57924821242878,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "242",
+    "name": "AIIMS Delhi",
+    "latitude": 28.566880775650404,
+    "longitude": 77.20853453821942,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "243",
+    "name": "Fortis Hospital",
+    "latitude": 19.106429635171715,
+    "longitude": 72.83032653493028,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "244",
+    "name": "Manipal Hospital",
+    "latitude": 12.928482519659315,
+    "longitude": 77.61723794065358,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "245",
+    "name": "CMC Vellore",
+    "latitude": 12.930672001127613,
+    "longitude": 79.13718457810916,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "246",
+    "name": "IIT Bombay",
+    "latitude": 19.128186358930794,
+    "longitude": 72.91635753397321,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "247",
+    "name": "IIT Delhi",
+    "latitude": 28.55429536840546,
+    "longitude": 77.1918834951253,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "248",
+    "name": "IIT Madras",
+    "latitude": 12.992370490838134,
+    "longitude": 80.24009818289258,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "249",
+    "name": "IIT Kanpur",
+    "latitude": 26.520010089123303,
+    "longitude": 80.23565681680942,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "250",
+    "name": "IIT Kharagpur",
+    "latitude": 22.316192666376544,
+    "longitude": 87.31868174873398,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "251",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.571825597978663,
+    "longitude": 88.36593228450499,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "252",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.0817473958286,
+    "longitude": 72.873055199094,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "253",
+    "name": "Chess Club Delhi",
+    "latitude": 28.61022745678826,
+    "longitude": 77.20139569671161,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "254",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.967185487222979,
+    "longitude": 77.59693346174522,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "255",
+    "name": "Chess Club Chennai",
+    "latitude": 13.073512781877337,
+    "longitude": 80.27151494223317,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "256",
+    "name": "Juhu Beach",
+    "latitude": 19.092830127071615,
+    "longitude": 72.81846333142863,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "257",
+    "name": "Marina Beach",
+    "latitude": 13.055400049365987,
+    "longitude": 80.27667767525557,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "258",
+    "name": "Calangute Beach",
+    "latitude": 15.538420433623424,
+    "longitude": 73.75034297566528,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "259",
+    "name": "Baga Beach",
+    "latitude": 15.550703678219401,
+    "longitude": 73.75508145277426,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "260",
+    "name": "Kovalam Beach",
+    "latitude": 8.394478321894377,
+    "longitude": 76.97005401855353,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "261",
+    "name": "Meenakshi Temple",
+    "latitude": 9.913889682265179,
+    "longitude": 78.1260704288818,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "262",
+    "name": "Golden Temple",
+    "latitude": 31.613937400498386,
+    "longitude": 74.87249522177703,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "263",
+    "name": "Somnath Temple",
+    "latitude": 20.88110602535263,
+    "longitude": 70.41117313924784,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "264",
+    "name": "ISKCON Temple",
+    "latitude": 28.56333811884498,
+    "longitude": 77.24936027846616,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "265",
+    "name": "Jagannath Temple",
+    "latitude": 19.796358666012225,
+    "longitude": 85.82594483317635,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "266",
+    "name": "Wankhede Stadium",
+    "latitude": 18.935285216469175,
+    "longitude": 72.8284189774411,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "267",
+    "name": "Eden Gardens",
+    "latitude": 22.570032647574475,
+    "longitude": 88.3386390711212,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "268",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.987496988598004,
+    "longitude": 77.59557784370168,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "269",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.63292823866181,
+    "longitude": 77.24079147335877,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "270",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.575389132957245,
+    "longitude": 77.23125781715945,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "271",
+    "name": "Apollo Hospital",
+    "latitude": 23.038596522489552,
+    "longitude": 72.5756560096472,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "272",
+    "name": "AIIMS Delhi",
+    "latitude": 28.570399262135467,
+    "longitude": 77.20804709586524,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "273",
+    "name": "Fortis Hospital",
+    "latitude": 19.099393321213356,
+    "longitude": 72.84140801342382,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "274",
+    "name": "Manipal Hospital",
+    "latitude": 12.933658688981197,
+    "longitude": 77.61536561014945,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "275",
+    "name": "CMC Vellore",
+    "latitude": 12.930891361854473,
+    "longitude": 79.13254145126075,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "276",
+    "name": "IIT Bombay",
+    "latitude": 19.127065510947045,
+    "longitude": 72.92108539168947,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "277",
+    "name": "IIT Delhi",
+    "latitude": 28.53559255034794,
+    "longitude": 77.18316601175626,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "278",
+    "name": "IIT Madras",
+    "latitude": 12.992911734281021,
+    "longitude": 80.23264866634409,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "279",
+    "name": "IIT Kanpur",
+    "latitude": 26.518992624239868,
+    "longitude": 80.23859266010221,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "280",
+    "name": "IIT Kharagpur",
+    "latitude": 22.315716392063948,
+    "longitude": 87.30729461019581,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "281",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.571815848652257,
+    "longitude": 88.3616540064964,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "282",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.080551972175993,
+    "longitude": 72.88237988068586,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "283",
+    "name": "Chess Club Delhi",
+    "latitude": 28.612005168365595,
+    "longitude": 77.1991006629901,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "284",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.972109325430022,
+    "longitude": 77.59704776860801,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "285",
+    "name": "Chess Club Chennai",
+    "latitude": 13.075822211241334,
+    "longitude": 80.27581555046727,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "286",
+    "name": "Juhu Beach",
+    "latitude": 19.096186255010256,
+    "longitude": 72.8181867968468,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "287",
+    "name": "Marina Beach",
+    "latitude": 13.044680241090534,
+    "longitude": 80.2788668612357,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "288",
+    "name": "Calangute Beach",
+    "latitude": 15.542442381645465,
+    "longitude": 73.75761421944475,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "289",
+    "name": "Baga Beach",
+    "latitude": 15.554847061069625,
+    "longitude": 73.7568588805803,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "290",
+    "name": "Kovalam Beach",
+    "latitude": 8.40356579366268,
+    "longitude": 76.98115877652786,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "291",
+    "name": "Meenakshi Temple",
+    "latitude": 9.921308968913566,
+    "longitude": 78.11548152676727,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "292",
+    "name": "Golden Temple",
+    "latitude": 31.627327081794906,
+    "longitude": 74.87346938763919,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "293",
+    "name": "Somnath Temple",
+    "latitude": 20.8858370108582,
+    "longitude": 70.40313331840768,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "294",
+    "name": "ISKCON Temple",
+    "latitude": 28.563035965118473,
+    "longitude": 77.25623976623942,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "295",
+    "name": "Jagannath Temple",
+    "latitude": 19.807164931917917,
+    "longitude": 85.82559282799546,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "296",
+    "name": "Wankhede Stadium",
+    "latitude": 18.93015412807664,
+    "longitude": 72.83255937490422,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "297",
+    "name": "Eden Gardens",
+    "latitude": 22.568941408938876,
+    "longitude": 88.33794877791925,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "298",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.974182828810255,
+    "longitude": 77.59504628153735,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "299",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.63815186310218,
+    "longitude": 77.23932352597674,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "300",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.57452563231486,
+    "longitude": 77.23380913413625,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "301",
+    "name": "Apollo Hospital",
+    "latitude": 23.038828048748062,
+    "longitude": 72.58081324551466,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "302",
+    "name": "AIIMS Delhi",
+    "latitude": 28.557803932931662,
+    "longitude": 77.2130758546987,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "303",
+    "name": "Fortis Hospital",
+    "latitude": 19.112799943386324,
+    "longitude": 72.82835411557089,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "304",
+    "name": "Manipal Hospital",
+    "latitude": 12.931116267361386,
+    "longitude": 77.62018009753119,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "305",
+    "name": "CMC Vellore",
+    "latitude": 12.9251983553504,
+    "longitude": 79.14092341344382,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "306",
+    "name": "IIT Bombay",
+    "latitude": 19.13141524756663,
+    "longitude": 72.91427231698744,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "307",
+    "name": "IIT Delhi",
+    "latitude": 28.536210230350072,
+    "longitude": 77.19975823892064,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "308",
+    "name": "IIT Madras",
+    "latitude": 12.98669313365903,
+    "longitude": 80.22855636465782,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "309",
+    "name": "IIT Kanpur",
+    "latitude": 26.521515335238636,
+    "longitude": 80.22718609099525,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "310",
+    "name": "IIT Kharagpur",
+    "latitude": 22.31781916128087,
+    "longitude": 87.31197671486318,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "311",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.57504841979484,
+    "longitude": 88.37209802822905,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "312",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.072467642379436,
+    "longitude": 72.88014049825074,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "313",
+    "name": "Chess Club Delhi",
+    "latitude": 28.621436085888455,
+    "longitude": 77.20879409736533,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "314",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.974307752201556,
+    "longitude": 77.60103026918814,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "315",
+    "name": "Chess Club Chennai",
+    "latitude": 13.086455963297634,
+    "longitude": 80.27715423388149,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "316",
+    "name": "Juhu Beach",
+    "latitude": 19.090883955621404,
+    "longitude": 72.83374399813188,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "317",
+    "name": "Marina Beach",
+    "latitude": 13.043895721208344,
+    "longitude": 80.28570335936745,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "318",
+    "name": "Calangute Beach",
+    "latitude": 15.543453059662811,
+    "longitude": 73.74804476655525,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "319",
+    "name": "Baga Beach",
+    "latitude": 15.548377300309854,
+    "longitude": 73.75767431937277,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "320",
+    "name": "Kovalam Beach",
+    "latitude": 8.404884427565575,
+    "longitude": 76.97798800372685,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "321",
+    "name": "Meenakshi Temple",
+    "latitude": 9.915217653547597,
+    "longitude": 78.1097442933845,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "322",
+    "name": "Golden Temple",
+    "latitude": 31.61885973201289,
+    "longitude": 74.8784148275974,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "323",
+    "name": "Somnath Temple",
+    "latitude": 20.897636235912287,
+    "longitude": 70.39512149888608,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "324",
+    "name": "ISKCON Temple",
+    "latitude": 28.56762777020124,
+    "longitude": 77.25376810962314,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "325",
+    "name": "Jagannath Temple",
+    "latitude": 19.795972010652026,
+    "longitude": 85.82215501662527,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "326",
+    "name": "Wankhede Stadium",
+    "latitude": 18.935780887051944,
+    "longitude": 72.83177838861525,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "327",
+    "name": "Eden Gardens",
+    "latitude": 22.556779387347586,
+    "longitude": 88.33643710200926,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "328",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.986171380068015,
+    "longitude": 77.59862408648596,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "329",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.632121359301763,
+    "longitude": 77.24260057895039,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "330",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.57945368719701,
+    "longitude": 77.24445083371646,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "331",
+    "name": "Apollo Hospital",
+    "latitude": 23.022859650807685,
+    "longitude": 72.57794520868437,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "332",
+    "name": "AIIMS Delhi",
+    "latitude": 28.568329243852205,
+    "longitude": 77.21319994712483,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "333",
+    "name": "Fortis Hospital",
+    "latitude": 19.109965876470163,
+    "longitude": 72.84225112056365,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "334",
+    "name": "Manipal Hospital",
+    "latitude": 12.932226020214307,
+    "longitude": 77.62795864547195,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "335",
+    "name": "CMC Vellore",
+    "latitude": 12.929649982709886,
+    "longitude": 79.13088513995936,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "336",
+    "name": "IIT Bombay",
+    "latitude": 19.127630581711337,
+    "longitude": 72.91246821719295,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "337",
+    "name": "IIT Delhi",
+    "latitude": 28.55125818971409,
+    "longitude": 77.19747693263446,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "338",
+    "name": "IIT Madras",
+    "latitude": 12.994707643505958,
+    "longitude": 80.22586054047417,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "339",
+    "name": "IIT Kanpur",
+    "latitude": 26.514268380498155,
+    "longitude": 80.23979401282402,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "340",
+    "name": "IIT Kharagpur",
+    "latitude": 22.32088735366449,
+    "longitude": 87.31902915834952,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "341",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.574710597149874,
+    "longitude": 88.36953379039197,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "342",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.08138028577109,
+    "longitude": 72.87244354076965,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "343",
+    "name": "Chess Club Delhi",
+    "latitude": 28.60554610729018,
+    "longitude": 77.20363573886814,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "344",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.970026287641188,
+    "longitude": 77.59918396424304,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "345",
+    "name": "Chess Club Chennai",
+    "latitude": 13.079135080381938,
+    "longitude": 80.26407836104626,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "346",
+    "name": "Juhu Beach",
+    "latitude": 19.09956000101677,
+    "longitude": 72.82792419431578,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "347",
+    "name": "Marina Beach",
+    "latitude": 13.041652239041914,
+    "longitude": 80.27882288248553,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "348",
+    "name": "Calangute Beach",
+    "latitude": 15.535208365151753,
+    "longitude": 73.749020669655,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "349",
+    "name": "Baga Beach",
+    "latitude": 15.5473081710358,
+    "longitude": 73.74589433620268,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "350",
+    "name": "Kovalam Beach",
+    "latitude": 8.403735656801572,
+    "longitude": 76.98178038531782,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "351",
+    "name": "Meenakshi Temple",
+    "latitude": 9.919580308868966,
+    "longitude": 78.12562644450665,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "352",
+    "name": "Golden Temple",
+    "latitude": 31.624309793479966,
+    "longitude": 74.88413355335038,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "353",
+    "name": "Somnath Temple",
+    "latitude": 20.880213664158962,
+    "longitude": 70.3975434898186,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "354",
+    "name": "ISKCON Temple",
+    "latitude": 28.574052129693044,
+    "longitude": 77.25580125658816,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "355",
+    "name": "Jagannath Temple",
+    "latitude": 19.814018720337216,
+    "longitude": 85.81977893031309,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "356",
+    "name": "Wankhede Stadium",
+    "latitude": 18.93866225741821,
+    "longitude": 72.82662472332049,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "357",
+    "name": "Eden Gardens",
+    "latitude": 22.559069142065244,
+    "longitude": 88.34808408846564,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "358",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.980446171817716,
+    "longitude": 77.60076796029638,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "359",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.644064608367433,
+    "longitude": 77.24405705518042,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "360",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.590590527503398,
+    "longitude": 77.24420514857805,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "361",
+    "name": "Apollo Hospital",
+    "latitude": 23.03041854023826,
+    "longitude": 72.589447023528,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "362",
+    "name": "AIIMS Delhi",
+    "latitude": 28.570973300570905,
+    "longitude": 77.21368930487553,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "363",
+    "name": "Fortis Hospital",
+    "latitude": 19.10015067068333,
+    "longitude": 72.83526385316695,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "364",
+    "name": "Manipal Hospital",
+    "latitude": 12.942831817861189,
+    "longitude": 77.62794812609383,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "365",
+    "name": "CMC Vellore",
+    "latitude": 12.927824612307012,
+    "longitude": 79.13226296874117,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "366",
+    "name": "IIT Bombay",
+    "latitude": 19.140217505308826,
+    "longitude": 72.91953178581416,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "367",
+    "name": "IIT Delhi",
+    "latitude": 28.537142038322997,
+    "longitude": 77.20095222630327,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "368",
+    "name": "IIT Madras",
+    "latitude": 13.00143313003612,
+    "longitude": 80.22587512649677,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "369",
+    "name": "IIT Kanpur",
+    "latitude": 26.50657335365658,
+    "longitude": 80.23340978178109,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "370",
+    "name": "IIT Kharagpur",
+    "latitude": 22.31967045610705,
+    "longitude": 87.31101023234494,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "371",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.57285332806588,
+    "longitude": 88.35571293288663,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "372",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.082382246074648,
+    "longitude": 72.88412029387985,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "373",
+    "name": "Chess Club Delhi",
+    "latitude": 28.607395050642005,
+    "longitude": 77.20025906959981,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "374",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.973739393857473,
+    "longitude": 77.60221549623432,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "375",
+    "name": "Chess Club Chennai",
+    "latitude": 13.075658391250075,
+    "longitude": 80.27461765554902,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "376",
+    "name": "Juhu Beach",
+    "latitude": 19.106346607347852,
+    "longitude": 72.83332942299606,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "377",
+    "name": "Marina Beach",
+    "latitude": 13.040516851907357,
+    "longitude": 80.27333437453309,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "378",
+    "name": "Calangute Beach",
+    "latitude": 15.552801346041692,
+    "longitude": 73.75621630999323,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "379",
+    "name": "Baga Beach",
+    "latitude": 15.55233712043096,
+    "longitude": 73.7461105550987,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "380",
+    "name": "Kovalam Beach",
+    "latitude": 8.408814705365263,
+    "longitude": 76.98461524863278,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "381",
+    "name": "Meenakshi Temple",
+    "latitude": 9.917896279014021,
+    "longitude": 78.11446033316963,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "382",
+    "name": "Golden Temple",
+    "latitude": 31.627770875670976,
+    "longitude": 74.8850517446396,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "383",
+    "name": "Somnath Temple",
+    "latitude": 20.892463933520542,
+    "longitude": 70.40120505732645,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "384",
+    "name": "ISKCON Temple",
+    "latitude": 28.56787269585615,
+    "longitude": 77.24165084076562,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "385",
+    "name": "Jagannath Temple",
+    "latitude": 19.797228337658456,
+    "longitude": 85.82252885109688,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "386",
+    "name": "Wankhede Stadium",
+    "latitude": 18.948591960599618,
+    "longitude": 72.83161026289834,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "387",
+    "name": "Eden Gardens",
+    "latitude": 22.57451263805117,
+    "longitude": 88.33432195926721,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "388",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.979761085223817,
+    "longitude": 77.60642380603346,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "389",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.640164457627034,
+    "longitude": 77.24615460177054,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "390",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.577583627367154,
+    "longitude": 77.2409434620964,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "391",
+    "name": "Apollo Hospital",
+    "latitude": 23.03421821800817,
+    "longitude": 72.58907814611737,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "392",
+    "name": "AIIMS Delhi",
+    "latitude": 28.575558775604865,
+    "longitude": 77.20272254736992,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "393",
+    "name": "Fortis Hospital",
+    "latitude": 19.11656756950893,
+    "longitude": 72.82738006502558,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "394",
+    "name": "Manipal Hospital",
+    "latitude": 12.933054466315735,
+    "longitude": 77.61706222880323,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "395",
+    "name": "CMC Vellore",
+    "latitude": 12.918301836836616,
+    "longitude": 79.14304948241389,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "396",
+    "name": "IIT Bombay",
+    "latitude": 19.138005395037283,
+    "longitude": 72.91396939304623,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "397",
+    "name": "IIT Delhi",
+    "latitude": 28.537292143030637,
+    "longitude": 77.18262385863507,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "398",
+    "name": "IIT Madras",
+    "latitude": 13.000270873194992,
+    "longitude": 80.23398049589053,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "399",
+    "name": "IIT Kanpur",
+    "latitude": 26.51180087636103,
+    "longitude": 80.22829652018069,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "400",
+    "name": "IIT Kharagpur",
+    "latitude": 22.309246244550685,
+    "longitude": 87.29990123657772,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "401",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.579342103206212,
+    "longitude": 88.37315875659459,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "402",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.076033147187044,
+    "longitude": 72.88231719429159,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "403",
+    "name": "Chess Club Delhi",
+    "latitude": 28.60610967491957,
+    "longitude": 77.2095961630309,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "404",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.975513983373848,
+    "longitude": 77.58849109050271,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "405",
+    "name": "Chess Club Chennai",
+    "latitude": 13.081868638094866,
+    "longitude": 80.27266209277359,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "406",
+    "name": "Juhu Beach",
+    "latitude": 19.105517818508954,
+    "longitude": 72.82417320673316,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "407",
+    "name": "Marina Beach",
+    "latitude": 13.044434803006466,
+    "longitude": 80.29041883116264,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "408",
+    "name": "Calangute Beach",
+    "latitude": 15.545082743790656,
+    "longitude": 73.75686607490609,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "409",
+    "name": "Baga Beach",
+    "latitude": 15.546896153359423,
+    "longitude": 73.75625736955917,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "410",
+    "name": "Kovalam Beach",
+    "latitude": 8.401007423835477,
+    "longitude": 76.9849451945163,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "411",
+    "name": "Meenakshi Temple",
+    "latitude": 9.925755960606587,
+    "longitude": 78.12259470472549,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "412",
+    "name": "Golden Temple",
+    "latitude": 31.61674395168787,
+    "longitude": 74.87488508928945,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "413",
+    "name": "Somnath Temple",
+    "latitude": 20.890197917145713,
+    "longitude": 70.39842485194427,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "414",
+    "name": "ISKCON Temple",
+    "latitude": 28.56877978260177,
+    "longitude": 77.25891565049731,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "415",
+    "name": "Jagannath Temple",
+    "latitude": 19.81228196265602,
+    "longitude": 85.8123244548112,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "416",
+    "name": "Wankhede Stadium",
+    "latitude": 18.92903440008252,
+    "longitude": 72.82787075946058,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "417",
+    "name": "Eden Gardens",
+    "latitude": 22.560850370342386,
+    "longitude": 88.35267742784468,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "418",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.973947078824471,
+    "longitude": 77.60369156396547,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "419",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.643059817431535,
+    "longitude": 77.24497051709693,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "420",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.586910611830486,
+    "longitude": 77.23466295582938,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "421",
+    "name": "Apollo Hospital",
+    "latitude": 23.020941387525554,
+    "longitude": 72.58132456526651,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "422",
+    "name": "AIIMS Delhi",
+    "latitude": 28.571572097129327,
+    "longitude": 77.20268719128951,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "423",
+    "name": "Fortis Hospital",
+    "latitude": 19.117440414891643,
+    "longitude": 72.82923603790518,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "424",
+    "name": "Manipal Hospital",
+    "latitude": 12.93585016790931,
+    "longitude": 77.62590790239973,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "425",
+    "name": "CMC Vellore",
+    "latitude": 12.917651048059751,
+    "longitude": 79.14147920471422,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "426",
+    "name": "IIT Bombay",
+    "latitude": 19.141961389736608,
+    "longitude": 72.9142539150472,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "427",
+    "name": "IIT Delhi",
+    "latitude": 28.55079335134763,
+    "longitude": 77.19920975427392,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "428",
+    "name": "IIT Madras",
+    "latitude": 12.99880043450404,
+    "longitude": 80.24198043799315,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "429",
+    "name": "IIT Kanpur",
+    "latitude": 26.522084398500155,
+    "longitude": 80.22921498659507,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "430",
+    "name": "IIT Kharagpur",
+    "latitude": 22.317212249114743,
+    "longitude": 87.30700378028268,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "431",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.565426011105064,
+    "longitude": 88.36385736587286,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "432",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.083670608444894,
+    "longitude": 72.8778978783282,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "433",
+    "name": "Chess Club Delhi",
+    "latitude": 28.61652188311754,
+    "longitude": 77.21530713858607,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "434",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.981337821881969,
+    "longitude": 77.60416341908788,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "435",
+    "name": "Chess Club Chennai",
+    "latitude": 13.09112248474287,
+    "longitude": 80.28059486945035,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "436",
+    "name": "Juhu Beach",
+    "latitude": 19.089056331824075,
+    "longitude": 72.8207088876844,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "437",
+    "name": "Marina Beach",
+    "latitude": 13.052696870321794,
+    "longitude": 80.2897720437655,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "438",
+    "name": "Calangute Beach",
+    "latitude": 15.547430847441722,
+    "longitude": 73.7503246212012,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "439",
+    "name": "Baga Beach",
+    "latitude": 15.549539049268983,
+    "longitude": 73.75612452039364,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "440",
+    "name": "Kovalam Beach",
+    "latitude": 8.394095601788369,
+    "longitude": 76.98663353706303,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "441",
+    "name": "Meenakshi Temple",
+    "latitude": 9.92256737559684,
+    "longitude": 78.11982838159462,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "442",
+    "name": "Golden Temple",
+    "latitude": 31.616114949282277,
+    "longitude": 74.88542501718925,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "443",
+    "name": "Somnath Temple",
+    "latitude": 20.88165629640492,
+    "longitude": 70.39508959997778,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "444",
+    "name": "ISKCON Temple",
+    "latitude": 28.567388235313235,
+    "longitude": 77.24522409703219,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "445",
+    "name": "Jagannath Temple",
+    "latitude": 19.8003829011148,
+    "longitude": 85.81111236625395,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "446",
+    "name": "Wankhede Stadium",
+    "latitude": 18.931598066471878,
+    "longitude": 72.82614137358273,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "447",
+    "name": "Eden Gardens",
+    "latitude": 22.563079726295808,
+    "longitude": 88.34075712783114,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "448",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.982138400925402,
+    "longitude": 77.59804817676809,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "449",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.63757397141924,
+    "longitude": 77.25056231129835,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "450",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.573662951553043,
+    "longitude": 77.234857811646,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "451",
+    "name": "Apollo Hospital",
+    "latitude": 23.032060679410417,
+    "longitude": 72.57786598501738,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "452",
+    "name": "AIIMS Delhi",
+    "latitude": 28.572169621799286,
+    "longitude": 77.21893038385417,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "453",
+    "name": "Fortis Hospital",
+    "latitude": 19.116069402603436,
+    "longitude": 72.84577151941538,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "454",
+    "name": "Manipal Hospital",
+    "latitude": 12.935834369866983,
+    "longitude": 77.6286426383157,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "455",
+    "name": "CMC Vellore",
+    "latitude": 12.919821235023099,
+    "longitude": 79.13627304973298,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "456",
+    "name": "IIT Bombay",
+    "latitude": 19.139449100781274,
+    "longitude": 72.91874888783606,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "457",
+    "name": "IIT Delhi",
+    "latitude": 28.54679686007727,
+    "longitude": 77.19785243524211,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "458",
+    "name": "IIT Madras",
+    "latitude": 12.985486030932105,
+    "longitude": 80.23893210653698,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "459",
+    "name": "IIT Kanpur",
+    "latitude": 26.51527733129925,
+    "longitude": 80.2414061604099,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "460",
+    "name": "IIT Kharagpur",
+    "latitude": 22.322760002477253,
+    "longitude": 87.30720700255213,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "461",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.568694663119253,
+    "longitude": 88.35677916332807,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "462",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.08470573765997,
+    "longitude": 72.87629689117448,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "463",
+    "name": "Chess Club Delhi",
+    "latitude": 28.62064805580058,
+    "longitude": 77.20532751533791,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "464",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.973483083410335,
+    "longitude": 77.59846674117439,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "465",
+    "name": "Chess Club Chennai",
+    "latitude": 13.078192547850508,
+    "longitude": 80.26345612535198,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "466",
+    "name": "Juhu Beach",
+    "latitude": 19.08883066339854,
+    "longitude": 72.83598197595136,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "467",
+    "name": "Marina Beach",
+    "latitude": 13.041335700732715,
+    "longitude": 80.28014310923996,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "468",
+    "name": "Calangute Beach",
+    "latitude": 15.552379156019274,
+    "longitude": 73.75169875081832,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "469",
+    "name": "Baga Beach",
+    "latitude": 15.55499427315889,
+    "longitude": 73.7461283607375,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "470",
+    "name": "Kovalam Beach",
+    "latitude": 8.401046730146549,
+    "longitude": 76.98695669088626,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "471",
+    "name": "Meenakshi Temple",
+    "latitude": 9.9101173591911,
+    "longitude": 78.12691526981757,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "472",
+    "name": "Golden Temple",
+    "latitude": 31.625037928691327,
+    "longitude": 74.87172076511584,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "473",
+    "name": "Somnath Temple",
+    "latitude": 20.88209299396674,
+    "longitude": 70.4069058867633,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "474",
+    "name": "ISKCON Temple",
+    "latitude": 28.568664126451477,
+    "longitude": 77.25255807979767,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "475",
+    "name": "Jagannath Temple",
+    "latitude": 19.80405535473821,
+    "longitude": 85.82285909650602,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "476",
+    "name": "Wankhede Stadium",
+    "latitude": 18.94179692506797,
+    "longitude": 72.83119993267535,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "477",
+    "name": "Eden Gardens",
+    "latitude": 22.560068182891616,
+    "longitude": 88.33673951797795,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "478",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.977465823483483,
+    "longitude": 77.59893229339,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "479",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.630502925191944,
+    "longitude": 77.24376327978769,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "480",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.58182241435143,
+    "longitude": 77.23609077358077,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "481",
+    "name": "Apollo Hospital",
+    "latitude": 23.035957012338205,
+    "longitude": 72.57977787171124,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "482",
+    "name": "AIIMS Delhi",
+    "latitude": 28.569470487697906,
+    "longitude": 77.20886773003393,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "483",
+    "name": "Fortis Hospital",
+    "latitude": 19.1043561910419,
+    "longitude": 72.83611529250923,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "484",
+    "name": "Manipal Hospital",
+    "latitude": 12.924525871409662,
+    "longitude": 77.60949979821793,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "485",
+    "name": "CMC Vellore",
+    "latitude": 12.935537023561698,
+    "longitude": 79.13869994270785,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "486",
+    "name": "IIT Bombay",
+    "latitude": 19.139084754218818,
+    "longitude": 72.90553232627704,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "487",
+    "name": "IIT Delhi",
+    "latitude": 28.54495588074214,
+    "longitude": 77.19292440067292,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "488",
+    "name": "IIT Madras",
+    "latitude": 12.989752807833634,
+    "longitude": 80.23149593905251,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "489",
+    "name": "IIT Kanpur",
+    "latitude": 26.512551479653045,
+    "longitude": 80.22459197421837,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "490",
+    "name": "IIT Kharagpur",
+    "latitude": 22.31968782072603,
+    "longitude": 87.31529851036083,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "491",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.581194388540208,
+    "longitude": 88.35688205622216,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "492",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.076543488582953,
+    "longitude": 72.87421923291937,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "493",
+    "name": "Chess Club Delhi",
+    "latitude": 28.62276969510558,
+    "longitude": 77.21434236429857,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "494",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.965406219111697,
+    "longitude": 77.5863031422774,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "495",
+    "name": "Chess Club Chennai",
+    "latitude": 13.082797506741448,
+    "longitude": 80.27904228792225,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "496",
+    "name": "Juhu Beach",
+    "latitude": 19.09381889608004,
+    "longitude": 72.82567644721715,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "497",
+    "name": "Marina Beach",
+    "latitude": 13.053818317227973,
+    "longitude": 80.28337250057487,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "498",
+    "name": "Calangute Beach",
+    "latitude": 15.547057151677357,
+    "longitude": 73.76026857927305,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "499",
+    "name": "Baga Beach",
+    "latitude": 15.542891545678094,
+    "longitude": 73.75875931947135,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "500",
+    "name": "Kovalam Beach",
+    "latitude": 8.403285744509883,
+    "longitude": 76.97287624550678,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "501",
+    "name": "Meenakshi Temple",
+    "latitude": 9.917048091806421,
+    "longitude": 78.12335624170561,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "502",
+    "name": "Golden Temple",
+    "latitude": 31.62204577262872,
+    "longitude": 74.88220808163463,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "503",
+    "name": "Somnath Temple",
+    "latitude": 20.880967450278533,
+    "longitude": 70.3941958525704,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "504",
+    "name": "ISKCON Temple",
+    "latitude": 28.563108190369455,
+    "longitude": 77.25204946339628,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "505",
+    "name": "Jagannath Temple",
+    "latitude": 19.798797524358104,
+    "longitude": 85.81343488130348,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "506",
+    "name": "Wankhede Stadium",
+    "latitude": 18.94428122582808,
+    "longitude": 72.81847000896836,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "507",
+    "name": "Eden Gardens",
+    "latitude": 22.574398853389585,
+    "longitude": 88.34803697584398,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "508",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.98003557744243,
+    "longitude": 77.59669225153898,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "509",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.638270500311194,
+    "longitude": 77.2398664406167,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "510",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.579816458991047,
+    "longitude": 77.23302133552403,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "511",
+    "name": "Apollo Hospital",
+    "latitude": 23.026685956781673,
+    "longitude": 72.58925122338255,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "512",
+    "name": "AIIMS Delhi",
+    "latitude": 28.559092901088118,
+    "longitude": 77.21251264795495,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "513",
+    "name": "Fortis Hospital",
+    "latitude": 19.111712695016575,
+    "longitude": 72.83746453569442,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "514",
+    "name": "Manipal Hospital",
+    "latitude": 12.927527082936185,
+    "longitude": 77.62162901487062,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "515",
+    "name": "CMC Vellore",
+    "latitude": 12.924647102780849,
+    "longitude": 79.13046523978765,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "516",
+    "name": "IIT Bombay",
+    "latitude": 19.137025171111755,
+    "longitude": 72.91737631219512,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "517",
+    "name": "IIT Delhi",
+    "latitude": 28.547171833781462,
+    "longitude": 77.20251747790935,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "518",
+    "name": "IIT Madras",
+    "latitude": 12.996689516769878,
+    "longitude": 80.23712630296137,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "519",
+    "name": "IIT Kanpur",
+    "latitude": 26.51820631039327,
+    "longitude": 80.23623668882082,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "520",
+    "name": "IIT Kharagpur",
+    "latitude": 22.323998570820528,
+    "longitude": 87.3040987638996,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "521",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.57760070516471,
+    "longitude": 88.36439624747612,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "522",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.06804585666587,
+    "longitude": 72.87269868791452,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "523",
+    "name": "Chess Club Delhi",
+    "latitude": 28.611404102575307,
+    "longitude": 77.21767287520305,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "524",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.976519428297625,
+    "longitude": 77.58588641962695,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "525",
+    "name": "Chess Club Chennai",
+    "latitude": 13.089322686502792,
+    "longitude": 80.26421475538292,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "526",
+    "name": "Juhu Beach",
+    "latitude": 19.105907003862416,
+    "longitude": 72.8363771289799,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "527",
+    "name": "Marina Beach",
+    "latitude": 13.058488907421662,
+    "longitude": 80.28740494118384,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "528",
+    "name": "Calangute Beach",
+    "latitude": 15.54871407049546,
+    "longitude": 73.76270652734908,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "529",
+    "name": "Baga Beach",
+    "latitude": 15.555749731829158,
+    "longitude": 73.76120836936465,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "530",
+    "name": "Kovalam Beach",
+    "latitude": 8.391678277488237,
+    "longitude": 76.97571209512867,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "531",
+    "name": "Meenakshi Temple",
+    "latitude": 9.919339493677404,
+    "longitude": 78.12396112232128,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "532",
+    "name": "Golden Temple",
+    "latitude": 31.620354337143834,
+    "longitude": 74.88199781781164,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "533",
+    "name": "Somnath Temple",
+    "latitude": 20.878969476975676,
+    "longitude": 70.40491614862295,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "534",
+    "name": "ISKCON Temple",
+    "latitude": 28.565621228609665,
+    "longitude": 77.24405670999971,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "535",
+    "name": "Jagannath Temple",
+    "latitude": 19.814464354633763,
+    "longitude": 85.82565393761229,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "536",
+    "name": "Wankhede Stadium",
+    "latitude": 18.942590044504662,
+    "longitude": 72.8197100051756,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "537",
+    "name": "Eden Gardens",
+    "latitude": 22.56732374318356,
+    "longitude": 88.35193007428137,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "538",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.97433980874302,
+    "longitude": 77.60029921067832,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "539",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.641703597905867,
+    "longitude": 77.24493740632191,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "540",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.58425080194943,
+    "longitude": 77.24011365292638,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "541",
+    "name": "Apollo Hospital",
+    "latitude": 23.02864233898418,
+    "longitude": 72.57397921280766,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "542",
+    "name": "AIIMS Delhi",
+    "latitude": 28.573259982779806,
+    "longitude": 77.21099725425601,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "543",
+    "name": "Fortis Hospital",
+    "latitude": 19.10235425216299,
+    "longitude": 72.83453814755048,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "544",
+    "name": "Manipal Hospital",
+    "latitude": 12.942093989819504,
+    "longitude": 77.61384345955399,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "545",
+    "name": "CMC Vellore",
+    "latitude": 12.917346137555352,
+    "longitude": 79.12547990815187,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "546",
+    "name": "IIT Bombay",
+    "latitude": 19.125092268085456,
+    "longitude": 72.91474032978324,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "547",
+    "name": "IIT Delhi",
+    "latitude": 28.537266110839735,
+    "longitude": 77.20061343646441,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "548",
+    "name": "IIT Madras",
+    "latitude": 12.999015096247406,
+    "longitude": 80.22989522500416,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "549",
+    "name": "IIT Kanpur",
+    "latitude": 26.51590070598144,
+    "longitude": 80.23478533948699,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "550",
+    "name": "IIT Kharagpur",
+    "latitude": 22.322097963853253,
+    "longitude": 87.31545199859195,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "551",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.580453620238025,
+    "longitude": 88.35770491250797,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "552",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.076839297181778,
+    "longitude": 72.88228820055434,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "553",
+    "name": "Chess Club Delhi",
+    "latitude": 28.617090277042163,
+    "longitude": 77.20644165940735,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "554",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.976402592887323,
+    "longitude": 77.60231243712826,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "555",
+    "name": "Chess Club Chennai",
+    "latitude": 13.08359362822199,
+    "longitude": 80.27009041412776,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "556",
+    "name": "Juhu Beach",
+    "latitude": 19.107696897183786,
+    "longitude": 72.82618981714708,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "557",
+    "name": "Marina Beach",
+    "latitude": 13.05862841737251,
+    "longitude": 80.28601278180375,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "558",
+    "name": "Calangute Beach",
+    "latitude": 15.53444127163157,
+    "longitude": 73.7493192301052,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "559",
+    "name": "Baga Beach",
+    "latitude": 15.555713767951724,
+    "longitude": 73.74473467963975,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "560",
+    "name": "Kovalam Beach",
+    "latitude": 8.39169633315518,
+    "longitude": 76.97063914853433,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "561",
+    "name": "Meenakshi Temple",
+    "latitude": 9.91184822127231,
+    "longitude": 78.11255862831057,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "562",
+    "name": "Golden Temple",
+    "latitude": 31.623490292886057,
+    "longitude": 74.8805581651183,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "563",
+    "name": "Somnath Temple",
+    "latitude": 20.892311125160806,
+    "longitude": 70.40729285393559,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "564",
+    "name": "ISKCON Temple",
+    "latitude": 28.57259914961933,
+    "longitude": 77.2527184458147,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "565",
+    "name": "Jagannath Temple",
+    "latitude": 19.800510201073116,
+    "longitude": 85.8260044566035,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "566",
+    "name": "Wankhede Stadium",
+    "latitude": 18.936577847990115,
+    "longitude": 72.83530434580399,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "567",
+    "name": "Eden Gardens",
+    "latitude": 22.554902792863718,
+    "longitude": 88.34993315829372,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "568",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.972511775160442,
+    "longitude": 77.60160742688954,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "569",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.6375899946885,
+    "longitude": 77.23339082008718,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "570",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.589190131676695,
+    "longitude": 77.23534899870033,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  },
+  {
+    "id": "571",
+    "name": "Apollo Hospital",
+    "latitude": 23.0268663070874,
+    "longitude": 72.58651716877823,
+    "category": "Hospital",
+    "address": "Apollo Hospital, Ahmedabad, India"
+  },
+  {
+    "id": "572",
+    "name": "AIIMS Delhi",
+    "latitude": 28.560649762636107,
+    "longitude": 77.20130248447924,
+    "category": "Hospital",
+    "address": "AIIMS Delhi, New Delhi, India"
+  },
+  {
+    "id": "573",
+    "name": "Fortis Hospital",
+    "latitude": 19.111295333965696,
+    "longitude": 72.84668745419948,
+    "category": "Hospital",
+    "address": "Fortis Hospital, Mumbai, India"
+  },
+  {
+    "id": "574",
+    "name": "Manipal Hospital",
+    "latitude": 12.92695013951387,
+    "longitude": 77.62156030119473,
+    "category": "Hospital",
+    "address": "Manipal Hospital, Bangalore, India"
+  },
+  {
+    "id": "575",
+    "name": "CMC Vellore",
+    "latitude": 12.930741517373356,
+    "longitude": 79.13492240060556,
+    "category": "Hospital",
+    "address": "CMC Vellore, Vellore, India"
+  },
+  {
+    "id": "576",
+    "name": "IIT Bombay",
+    "latitude": 19.127031198039713,
+    "longitude": 72.92051245035141,
+    "category": "IIT",
+    "address": "IIT Bombay, Mumbai, India"
+  },
+  {
+    "id": "577",
+    "name": "IIT Delhi",
+    "latitude": 28.55402671713545,
+    "longitude": 77.1919076004073,
+    "category": "IIT",
+    "address": "IIT Delhi, New Delhi, India"
+  },
+  {
+    "id": "578",
+    "name": "IIT Madras",
+    "latitude": 12.994159876015937,
+    "longitude": 80.23016548954774,
+    "category": "IIT",
+    "address": "IIT Madras, Chennai, India"
+  },
+  {
+    "id": "579",
+    "name": "IIT Kanpur",
+    "latitude": 26.51278049057116,
+    "longitude": 80.23826992696536,
+    "category": "IIT",
+    "address": "IIT Kanpur, Kanpur, India"
+  },
+  {
+    "id": "580",
+    "name": "IIT Kharagpur",
+    "latitude": 22.305609222018425,
+    "longitude": 87.31677056935425,
+    "category": "IIT",
+    "address": "IIT Kharagpur, Kharagpur, India"
+  },
+  {
+    "id": "581",
+    "name": "Chess Club Kolkata",
+    "latitude": 22.567817315453357,
+    "longitude": 88.36649933637507,
+    "category": "Chess Club",
+    "address": "Chess Club Kolkata, Kolkata, India"
+  },
+  {
+    "id": "582",
+    "name": "Chess Academy Mumbai",
+    "latitude": 19.076690905500904,
+    "longitude": 72.88481883093867,
+    "category": "Chess Club",
+    "address": "Chess Academy Mumbai, Mumbai, India"
+  },
+  {
+    "id": "583",
+    "name": "Chess Club Delhi",
+    "latitude": 28.606827151049114,
+    "longitude": 77.21106557503983,
+    "category": "Chess Club",
+    "address": "Chess Club Delhi, New Delhi, India"
+  },
+  {
+    "id": "584",
+    "name": "Chess Club Bangalore",
+    "latitude": 12.96214572376399,
+    "longitude": 77.58526364561365,
+    "category": "Chess Club",
+    "address": "Chess Club Bangalore, Bangalore, India"
+  },
+  {
+    "id": "585",
+    "name": "Chess Club Chennai",
+    "latitude": 13.075941927722054,
+    "longitude": 80.26556302317098,
+    "category": "Chess Club",
+    "address": "Chess Club Chennai, Chennai, India"
+  },
+  {
+    "id": "586",
+    "name": "Juhu Beach",
+    "latitude": 19.098177031992172,
+    "longitude": 72.82592756292584,
+    "category": "Beach",
+    "address": "Juhu Beach, Mumbai, India"
+  },
+  {
+    "id": "587",
+    "name": "Marina Beach",
+    "latitude": 13.042185088966098,
+    "longitude": 80.28331928042232,
+    "category": "Beach",
+    "address": "Marina Beach, Chennai, India"
+  },
+  {
+    "id": "588",
+    "name": "Calangute Beach",
+    "latitude": 15.53810226578193,
+    "longitude": 73.75976761528796,
+    "category": "Beach",
+    "address": "Calangute Beach, Goa, India"
+  },
+  {
+    "id": "589",
+    "name": "Baga Beach",
+    "latitude": 15.546201659201186,
+    "longitude": 73.7521658779731,
+    "category": "Beach",
+    "address": "Baga Beach, Goa, India"
+  },
+  {
+    "id": "590",
+    "name": "Kovalam Beach",
+    "latitude": 8.407530388848546,
+    "longitude": 76.97970537728834,
+    "category": "Beach",
+    "address": "Kovalam Beach, Kerala, India"
+  },
+  {
+    "id": "591",
+    "name": "Meenakshi Temple",
+    "latitude": 9.926580790830453,
+    "longitude": 78.11429756448227,
+    "category": "Temple",
+    "address": "Meenakshi Temple, Madurai, India"
+  },
+  {
+    "id": "592",
+    "name": "Golden Temple",
+    "latitude": 31.62232898979985,
+    "longitude": 74.87493732694324,
+    "category": "Temple",
+    "address": "Golden Temple, Amritsar, India"
+  },
+  {
+    "id": "593",
+    "name": "Somnath Temple",
+    "latitude": 20.886898211369584,
+    "longitude": 70.39512311010357,
+    "category": "Temple",
+    "address": "Somnath Temple, Gujarat, India"
+  },
+  {
+    "id": "594",
+    "name": "ISKCON Temple",
+    "latitude": 28.564129332435797,
+    "longitude": 77.25133101536542,
+    "category": "Temple",
+    "address": "ISKCON Temple, Delhi, India"
+  },
+  {
+    "id": "595",
+    "name": "Jagannath Temple",
+    "latitude": 19.79726348093734,
+    "longitude": 85.81858015423977,
+    "category": "Temple",
+    "address": "Jagannath Temple, Puri, India"
+  },
+  {
+    "id": "596",
+    "name": "Wankhede Stadium",
+    "latitude": 18.933908622857405,
+    "longitude": 72.83316150741189,
+    "category": "Stadium",
+    "address": "Wankhede Stadium, Mumbai, India"
+  },
+  {
+    "id": "597",
+    "name": "Eden Gardens",
+    "latitude": 22.568790782804296,
+    "longitude": 88.34102240665966,
+    "category": "Stadium",
+    "address": "Eden Gardens, Kolkata, India"
+  },
+  {
+    "id": "598",
+    "name": "M. Chinnaswamy Stadium",
+    "latitude": 12.981897114035123,
+    "longitude": 77.60571862161758,
+    "category": "Stadium",
+    "address": "M. Chinnaswamy Stadium, Bangalore, India"
+  },
+  {
+    "id": "599",
+    "name": "Feroz Shah Kotla",
+    "latitude": 28.630340262423633,
+    "longitude": 77.24614445016506,
+    "category": "Stadium",
+    "address": "Feroz Shah Kotla, Delhi, India"
+  },
+  {
+    "id": "600",
+    "name": "Jawaharlal Nehru Stadium",
+    "latitude": 28.572354042329234,
+    "longitude": 77.24831688597371,
+    "category": "Stadium",
+    "address": "Jawaharlal Nehru Stadium, Delhi, India"
+  }
+]

@@ -1,0 +1,125 @@
+/* Base layout */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.commutes {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  color: #202124;
+}
+
+/* Map container */
+.commutes-map {
+  flex: 1;
+  position: relative;
+}
+
+.map-view {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: #e5e3df; /* fallback before map loads */
+}
+
+/* Info panel */
+.commutes-info {
+  flex: 0 0 110px;
+  padding: 8px;
+}
+
+.commutes-initial-state {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  padding: 0 16px;
+  height: 98px;
+}
+
+.commutes-initial-state .heading {
+  font-size: 20px;
+  margin: 0;
+}
+
+.commutes-initial-state p {
+  font-size: 13px;
+  color: #5f6368;
+  margin: 4px 0 0;
+}
+
+/* Add button (reusable) */
+.add-button {
+  background-color: #1a73e8;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-weight: 600;
+}
+.add-button:hover {
+  background-color: #1558b0;
+}
+
+/* Destinations list */
+.commutes-destinations {
+  display: none; /* shown once destinations added */
+  padding: 8px;
+}
+
+.destinations-container {
+  display: flex;
+  overflow-x: auto;
+  gap: 8px;
+}
+
+/* Modal overlay */
+.commutes-modal-container {
+  display: none; /* controlled by JS */
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Modal box */
+.commutes-modal {
+  background: #fff;
+  border-radius: 6px;
+  padding: 20px;
+  width: 360px;
+  max-width: 90%;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.commutes-modal h2 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+/* Modal form */
+.commutes-modal input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 12px 0;
+  border: 1px solid #dadce0;
+  border-radius: 4px;
+}
+
+.travel-modes {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.travel-modes input {
+  margin-right: 4px;
+}

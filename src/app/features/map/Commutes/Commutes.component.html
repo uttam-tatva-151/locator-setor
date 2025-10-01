@@ -1,0 +1,37 @@
+<main class="commutes">
+  <div class="commutes-map" aria-label="Map">
+    <div #mapView class="map-view" id="map"></div>
+  </div>
+
+  <div class="commutes-info">
+    <div class="commutes-initial-state">
+      <h1 class="heading">Estimate commute time</h1>
+      <p>See travel time and directions for places nearby</p>
+      <button class="add-button">Add destination</button>
+    </div>
+
+    <div class="commutes-destinations">
+      <div class="destinations-container">
+        <div class="destination-list"></div>
+        <button class="add-button">Add destination</button>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- Modal -->
+<div class="commutes-modal-container">
+  <div class="commutes-modal">
+    <h2>Add destination</h2>
+    <form>
+      <input type="text" id="destination" placeholder="Enter a place" required />
+      <div class="travel-modes">
+        <input type="radio" name="mode" value="DRIVING" checked /> Driving
+        <input type="radio" name="mode" value="WALKING" /> Walking
+        <input type="radio" name="mode" value="BICYCLING" /> Cycling
+        <input type="radio" name="mode" value="TRANSIT" /> Transit
+      </div>
+      <button type="button">Add</button>
+    </form>
+  </div>
+</div>

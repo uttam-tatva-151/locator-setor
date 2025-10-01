@@ -1,0 +1,102 @@
+.left-panel {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.accordion-section {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #ddd;
+}
+
+.accordion-header {
+  background-color: #4285f4;
+  color: #fff;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 0;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+  width: 100%;
+}
+
+.accordion-body {
+  display: none;
+  flex-direction: column;
+  padding: 10px 0;
+  gap: 10px;
+}
+
+.accordion-section.active .accordion-body {
+  display: flex;
+}
+
+.accordion-body input {
+
+  padding: 6px 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 13px;
+}
+
+.accordion-body button {
+  padding: 6px 10px;
+  border-radius: 4px;
+  border: none;
+  background-color: #3367d6;
+  color: #fff;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.accordion-body button:disabled {
+  background-color: #a0c0f8;
+  cursor: not-allowed;
+}
+
+/* Marker list */
+.accordion-body ul {
+  list-style: none;
+  padding-left: 0;
+  max-height: 120px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.accordion-body ul li {
+  padding: 5px 8px;
+  font-size: 13px;
+  border-bottom: 1px solid #eee;
+}
+
+.accordion-body ul li:last-child {
+  border-bottom: none;
+}
+
+/* Category buttons */
+.category-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.category-buttons button {
+  width: 100%;
+  text-align: left;
+  background-color: #f1f3f4;
+  color: #333;
+  font-weight: 500;
+}
+
+.category-buttons button:hover {
+  background-color: #e2e6ea;
+}

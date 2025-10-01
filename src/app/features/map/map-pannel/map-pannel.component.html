@@ -1,12 +1,58 @@
 <div class="left-panel">
-  <input [(ngModel)]="searchTerm" placeholder="Search place" />
-  <button (click)="searchCity()">Search</button>
-  <button (click)="addMarker()" [disabled]="!tempMarker">Add Marker</button>
 
-  <h4>Markers</h4>
-  <ul>
-    <li *ngFor="let m of markers">{{ m.label }} - {{ m.name }}</li>
-  </ul>
+  <!-- Accordion Section: Search & Add Marker -->
+  <div class="accordion-section" [class.active]="activeSection === 'search'">
+    <button class="accordion-header" (click)="toggleSection('search')">
+      🔍 Search & Add Marker
+    </button>
+    <div class="accordion-body">
+      <input [(ngModel)]="searchTerm" placeholder="Search place" />
+      <button (click)="searchCity()">Search</button>
+      <button (click)="addMarker()" [disabled]="!tempMarker">Add Marker</button>
 
-  <button (click)="swapMarkers()" *ngIf="markers.length >= 2">Swap First Two</button>
+      <h4>Markers</h4>
+      <ul>
+        <li *ngFor="let m of markers">{{ m.label }} - {{ m.name }}</li>
+      </ul>
+
+      <button (click)="swapMarkers()" *ngIf="markers.length >= 2">
+        🔁 Swap First Two
+      </button>
+    </div>
+  </div>
+
+  <!-- Accordion Section: Filter Places by Category -->
+  <div class="accordion-section" [class.active]="activeSection === 'filter'">
+    <button class="accordion-header" (click)="toggleSection('filter')">
+      🗂️ Filter Places by Category
+    </button>
+    <div class="accordion-body">
+      <input [(ngModel)]="cityName" placeholder="Enter city name" />
+      <input [value]="selectedCategory" readonly placeholder="Selected category" />
+
+      <div class="category-buttons">
+        <button (click)="filterPlaces('hospital')">🏥 Hospital</button>
+        <button (click)="filterPlaces('temple')">🛕 Temple</button>
+        <button (click)="filterPlaces('iit')">🎓 IIT</button>
+        <button (click)="filterPlaces('stadium')">🏟️ Stadium</button>
+        <button (click)="filterPlaces('club')">♟️ Chess Club</button>
+        <button (click)="filterPlaces('beach')">🏖️ Beach</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Accordion Section: Draw Custom Shapes -->
+  <div class="accordion-section" [class.active]="activeSection === 'shapes'">
+    <button class="accordion-header" (click)="toggleSection('shapes')">
+      🧩 Draw Custom Shapes
+    </button>
+    <div class="accordion-body">
+      <button (click)="drawCircle()">Draw Circle</button>
+      <button (click)="drawPolygon()">Draw Polygon</button>
+      <button (click)="drawRectangle()">Draw Rectangle</button>
+      <button (click)="drawPolyline()">Draw Polyline</button>
+      <button (click)="clearShapes()">Clear All Shapes</button>
+    </div>
+  </div>
+
 </div>
