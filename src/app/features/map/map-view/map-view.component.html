@@ -1,17 +1,11 @@
 <google-map [center]="center" [zoom]="zoom" height="100%" width="100%" (mapInitialized)="onMapReady($event)">
   <!-- Show temp marker from search -->
-  <map-marker
-    *ngIf="tempMarker"
-    [position]="tempMarker.position"
-    [label]="tempMarker.name.charAt(0)"
-  ></map-marker>
+  <map-marker *ngIf="tempMarker" [position]="tempMarker.position" #tempMarkerRef [label]="tempMarker.name.charAt(0)" (mapClick)="openTempMarkerInfo()"></map-marker>
 
   <!-- Show saved markers -->
-  <map-marker
-    *ngFor="let m of markers"
-    [position]="m.position"
-    [label]="m.label"
-  ></map-marker>
+  <map-marker *ngFor="let m of markers" [position]="m.position" [label]="m.label" (mapClick)="openInfoWindow(m)" ></map-marker>
+
+  <map-info-window>{{ selectedMarkerInfo }}</map-info-window>
   <map-polyline *ngIf="showPath" [path]="path" [options]="{ strokeColor: '#FF0000', strokeWeight: 3 }">
   </map-polyline>
 </google-map>

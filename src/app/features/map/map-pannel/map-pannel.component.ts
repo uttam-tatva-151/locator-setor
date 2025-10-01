@@ -20,11 +20,15 @@ export class MapPannelComponent {
   activeSection: string = 'search';
   cityName: string = '';
   selectedCategory: string = '';
+  distance: number = 0;
 
   constructor(private mapService: MapService) {
     this.mapService.markers$.subscribe((list) => (this.markers = list));
   }
 
+  updateDistance() {
+    this.distance = this.mapService.getDistanceFromMarkers(this.markers);
+  }
   toggleSection(section: string) {
     this.activeSection = this.activeSection === section ? '' : section;
   }
@@ -34,15 +38,16 @@ export class MapPannelComponent {
       alert('Please enter a search term.');
       return;
     }
+    this.mapService.togglePath(false);
 
     this.mapService.getCoordinates(this.searchTerm).subscribe({
+
       next: (result) => {
         if ('error' in result) {
           alert(result.error);
           this.tempMarker = null;
           return;
         }
-
         const place = result as MockPlace;
         this.tempMarker = {
           id: place.id,
@@ -52,7 +57,7 @@ export class MapPannelComponent {
           name: place.name,
         };
 
-        this.mapService.togglePath(false);
+        this.updateDistance();
         this.mapService.setTempMarker(this.tempMarker);
       },
       error: (err) => {
@@ -87,6 +92,7 @@ export class MapPannelComponent {
       return;
     }
 
+    this.mapService.togglePath(false);
     this.selectedCategory = category;
 
     this.mapService.gotFilteredPlaces(this.cityName, category).subscribe({
@@ -109,7 +115,7 @@ export class MapPannelComponent {
           this.mapService.addMarker(marker, true);
         });
 
-        this.mapService.togglePath(false);
+
         // this.mapService.writeList();
       },
       error: (err) => {

@@ -80,6 +80,31 @@ export class MapService {
     this._showPath.set(isShow);
   }
 
+  getDistanceFromMarkers(markers: Marker[]): number {
+    if (!markers || markers.length < 2) return 0;
+
+    const start = markers[0].position;
+    const end = markers[markers.length - 1].position;
+
+    // Using Haversine formula
+    const toRad = (x: number) => (x * Math.PI) / 180;
+
+    const R = 6371; // Radius of Earth in km
+    const dLat = toRad(end.lat - start.lat);
+    const dLng = toRad(end.lng - start.lng);
+
+    const a =
+      Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos(toRad(start.lat)) *
+        Math.cos(toRad(end.lat)) *
+        Math.sin(dLng / 2) *
+        Math.sin(dLng / 2);
+
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    const distance = R * c;
+
+    return distance; // in kilometers
+  }
   // Shape management
   private shapes: (
     | google.maps.Circle

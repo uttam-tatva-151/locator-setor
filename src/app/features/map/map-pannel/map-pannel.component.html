@@ -11,6 +11,9 @@
       <button (click)="addMarker()" [disabled]="!tempMarker">Add Marker</button>
 
       <h4>Markers</h4>
+      <p *ngIf="markers.length >= 2" class="p-4">
+        Distance from start to end: {{ distance | number:'1.2-2' }} km
+      </p>
       <ul>
         <li *ngFor="let m of markers">{{ m.label }} - {{ m.name }}</li>
       </ul>

@@ -1,0 +1,4 @@
+
+.gm-style-iw + div {
+  display: none !important;
+}
